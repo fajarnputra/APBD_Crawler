@@ -1,7 +1,7 @@
 # APBD_Crawler
 ### Helps to bulk download APBD data from DJPK Kemenkeu website and reduce redundant process
 
-**Step by step to use the system. **
+**Step by step to use the system.**
 
 The data cleaning process utilizes multiple software/ programming languages: Python for crawling the data, Stata for cleaning the data, and Excel to finalize the data. This method aims to fasten the download and cleaning process and help relevant stakeholders who might be tired of clicking on the DJPK Kemenkeu website to download data one by one, saving their time. 
 Note: you must have all three required software on your pc/laptop to fully use this system.
